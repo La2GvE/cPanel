@@ -1,5 +1,5 @@
 # cPanel<BR>
-<img src="http://forum.la2gve.com/public/style_images/4_5_1333452.png">
+<img src="http://forum.la2gve.com/public/style_images/4_5_1333452.png"><br>
 Panel de control de usuario y administracion La2GvE.com<BR>
 <BR>
 LA VERSION QUE ENCUENTRA AQUI ES PUBLICA Y BAJO LA LICENCIA DE ISC.(leer LINCENSE)<BR>
